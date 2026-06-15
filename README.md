@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=120&section=header&text=ilhambintang17&fontSize=36&fontColor=58a6ff&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=120&section=header&text=Ilham%20Bintang&fontSize=42&fontColor=58a6ff&animation=twinkling" />
 
 <br>
 
 <div align="center">
 
-I write code in whatever gets the job done. Right now that's mostly JS, Python, and Go.
+I write code in whatever gets the job done. Right now that's mostly **JS**, **Python**, and **Go**.
 
-I deploy to too many cloud platforms and run Linux on everything.
+I deploy to too many cloud platforms and run **Linux** on everything.
 
 </div>
 
@@ -60,9 +60,9 @@ I deploy to too many cloud platforms and run Linux on everything.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ilhambintang17&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ilhambintang17&hide_border=true" />
-    <img width="55%" src="https://streak-stats.demolab.com?user=ilhambintang17&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ilhambintang17&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ilhambintang17&hide_border=true" />
+    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=ilhambintang17&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
   </picture>
 </div>
 
