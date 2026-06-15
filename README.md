@@ -32,7 +32,7 @@ I deploy to too many cloud platforms and run **Linux** on everything.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linode-00A95C?style=flat-square&logo=linode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linode-00A95C?style=flat-square&logo=akamai&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Koyeb-121212?style=flat-square&logo=koyeb&logoColor=white" />
@@ -56,16 +56,6 @@ I deploy to too many cloud platforms and run **Linux** on everything.
   </picture>
 </div>
 
-<br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ilhambintang17&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ilhambintang17&hide_border=true" />
-    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=ilhambintang17&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
-  </picture>
-</div>
-
-<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=40&section=footer" />
