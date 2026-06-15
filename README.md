@@ -26,7 +26,7 @@ I deploy to too many cloud platforms and run **Linux** on everything.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,heroku,linux,ubuntu,github,gitlab&perline=9&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,heroku,cloudflare,linux,ubuntu,github,gitlab&perline=10&theme=dark" />
   </a>
 </p>
 
