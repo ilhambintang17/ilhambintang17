@@ -4,7 +4,7 @@
 
 <div align="center">
 
-I write code in whatever gets the job done. Right now that's mostly **JS**, **Python**, and **Go**.
+I write code in whatever gets the job done. Right now that's mostly **JS/TS**, **Python**, and **Go**.
 
 I deploy to too many cloud platforms and run **Linux** on everything.
 
@@ -18,7 +18,7 @@ I deploy to too many cloud platforms and run **Linux** on everything.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,python,go,mysql,mongodb&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,go,mysql,mongodb&perline=7&theme=dark" />
   </a>
 </p>
 
